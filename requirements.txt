@@ -4,15 +4,13 @@ pandas
 google-genai
 python-dotenv
 
-pandas
 time
 google
-genai
-dotenv-load_dotenv
+dotenv
+load_dotenv
 os
 numpy
 json
-streamlit.components.v1-components
 random
 datetime-datetime
 threading
